@@ -134,6 +134,14 @@ Contacts were successfully added, edited, and removed through the web applicatio
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69f0a0be-0712-41f3-adb6-9317babf9c52" />
 
+### 7. Grades
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d0caa77-dea8-43ea-a32e-87254263cca3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f99ab29-eb4c-4b4d-87c2-8d4eb732ae61" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c40c3e5d-8b37-4c05-bc83-826d164de25e" />
+
 ## Result
 
 The **Amazon RDS MySQL database** was successfully created with **Multi-AZ high availability**. The EC2 web application was successfully connected to the RDS database through port `3306`, and CRUD operations were successfully performed using the Address Book application.
