@@ -112,6 +112,7 @@ The web application was configured with the RDS endpoint and database credential
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6b5655c-c5bb-420b-a2c6-ab56bd450f1f" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/253202ea-1030-4d7b-a283-85b63044d334" />
 
 ---
 
